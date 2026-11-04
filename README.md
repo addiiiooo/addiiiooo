@@ -3,13 +3,18 @@
 <p align="center">
 
 
+<h1 align="center">Hi, I'm Aditya Sumanth 👋</h1>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Backend+Engineer+%C2%B7+Python%2C+APIs+%26+Microservices;Building+LLM+agents+that+refuse+to+make+things+up;Event-driven+platforms+on+AWS%2C+GCP+%26+Azure" alt="Backend Engineer · Python, APIs & Microservices" />
 </p>
+
+<p align="center">
   <a href="https://linkedin.com/in/adityasumanth"><img src="https://img.shields.io/badge/LinkedIn-adityasumanth-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://drive.google.com/file/d/1f0DK9wuWb_ngN5vy3lLBFw1itbcQvW83/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-D14836?style=flat&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <img src="https://img.shields.io/badge/Open_to-Backend_%26_AI_Engineering_roles-9ECE6A?style=flat" alt="Open to Backend and AI Engineering roles" />
   <img src="https://img.shields.io/badge/Based_in-India-E0AF68?style=flat" alt="Based in India" />
 </p>
-
 ## 💫 About me
 
 Backend engineer building reliable Python services and LLM agents that refuse to make things up.
