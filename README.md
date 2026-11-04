@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Backend+Engineer+%C2%B7+Python%2C+APIs+%26+Microservices;Building+LLM+agents+that+refuse+to+make+things+up;Event-driven+platforms+on+AWS%2C+GCP+%26+Azure" alt="Backend Engineer · Python, APIs & Microservices" />
 </p>
-
+<a href="https://drive.google.com/file/d/1f0DK9wuWb_ngN5vy3lLBFw1itbcQvW83/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-D14836?style=flat&logo=googledrive&logoColor=white" alt="Resume" /></a>
 <p align="center">
   <a href="https://linkedin.com/in/adityasumanth"><img src="https://img.shields.io/badge/LinkedIn-adityasumanth-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Open_to-Backend_%26_AI_Engineering_roles-9ECE6A?style=flat" alt="Open to Backend and AI Engineering roles" />
@@ -14,7 +14,6 @@
 
 Backend engineer building reliable Python services and LLM agents that refuse to make things up.
 
-  <a href="https://drive.google.com/file/d/1f0DK9wuWb_ngN5vy3lLBFw1itbcQvW83/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-D14836?style=flat&logo=googledrive&logoColor=white" alt="Resume" /></a>
 
 - 🔭 Currently building **[job-hunt-agent](https://github.com/addiiiooo/job-hunt-agent)**: an LLM agent that scores you against a job description using evidence from your own resume, and refuses to draft any bullet it can't ground
 - 🏦 Recent builds: **[txn-switch](https://github.com/addiiiooo/txn-switch)**, **[gcp-enterprise-finance-platform](https://github.com/addiiiooo/gcp-enterprise-finance-platform)** and **[azure-enterprise-data-ingestion-platform](https://github.com/addiiiooo/azure-enterprise-data-ingestion-platform)**
