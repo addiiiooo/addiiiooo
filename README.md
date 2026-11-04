@@ -14,6 +14,8 @@
 
 Backend engineer building reliable Python services and LLM agents that refuse to make things up.
 
+  <a href="https://drive.google.com/file/d/1f0DK9wuWb_ngN5vy3lLBFw1itbcQvW83/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-D14836?style=flat&logo=googledrive&logoColor=white" alt="Resume" /></a>
+
 - 🔭 Currently building **[job-hunt-agent](https://github.com/addiiiooo/job-hunt-agent)**: an LLM agent that scores you against a job description using evidence from your own resume, and refuses to draft any bullet it can't ground
 - 🏦 Recent builds: **[txn-switch](https://github.com/addiiiooo/txn-switch)**, **[gcp-enterprise-finance-platform](https://github.com/addiiiooo/gcp-enterprise-finance-platform)** and **[azure-enterprise-data-ingestion-platform](https://github.com/addiiiooo/azure-enterprise-data-ingestion-platform)**
 - 🧰 Open source: **[ciburn](https://github.com/addiiiooo/ciburn)**, a CLI + GitHub Action that found 7.5% of billed CI minutes across 1,993 repos never ran
